@@ -42,7 +42,22 @@ body {
 }
 
 .card1 {
-    background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Lamborghini-Aventador-Images.jpeg) center;
+    background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Lamborghini-Aventador-Images.jpeg) #484848 center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.card2 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/2/2e/Rh_huayrabc-67.jpg) #484848 center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.card3 {
+    background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Ferrari-wallpapers-spider-black.jpg) #484848 center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
     -webkit-background-size: cover;
     background-size: cover;
 }
