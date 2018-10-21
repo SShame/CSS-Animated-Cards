@@ -42,21 +42,21 @@ body {
 }
 
 .card1 {
-	background: url(../images/card1.jpg) 100% 100%;
-	-webkit-background-size: cover;
-	background-size: cover;
+    background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Lamborghini-Aventador-Images.jpeg) center;
+    -webkit-background-size: cover;
+    background-size: cover;
 }
 
 .card2 {
-	background: url(../images/card2.jpg) 100% 100%;
-	-webkit-background-size: cover;
-	background-size: cover;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/2/2e/Rh_huayrabc-67.jpg) center;
+    -webkit-background-size: cover;
+    background-size: cover;
 }
 
 .card3 {
-	background: url(../images/card3.jpg) 100% 100%;
-	-webkit-background-size: cover;
-	background-size: cover;
+    background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Ferrari-wallpapers-spider-black.jpg) center;
+    -webkit-background-size: cover;
+    background-size: cover;
 }
 
 .shadow {
@@ -73,14 +73,14 @@ body {
 	position: absolute;
 	left: 10%;
 	bottom: 0;
-	width: 50%;
+	width: 60%;
 	font-size: 2.2rem;
 	font-weight: 700;
 	text-align: left;
 }
 
 .card:hover .caption {
-	left: 14%;
+	left: 17%;
 	bottom: 17%;
 	transform: scale(1.3);
 }
