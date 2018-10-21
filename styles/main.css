@@ -62,10 +62,10 @@ body {
 .shadow {
 	position: absolute;
 	width: 200%;
-	height: 25vh;
-	left: -5vw;
-	bottom: -5vh;
-	filter: blur(110px);
+	height: 22rem;
+	left: -10rem;
+	bottom: -8rem;
+	filter: blur(120px);
 	background: var(--blckCol);
 }
 
