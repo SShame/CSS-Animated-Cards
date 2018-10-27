@@ -18,3 +18,9 @@
 		height: 150%;
 	}
 }
+
+@media screen and (max-width: 320px) {
+	.card:hover .caption {
+		left: 2rem;
+	}
+}
